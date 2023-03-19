@@ -1,7 +1,7 @@
 {
     "name": "KillAny",
     "version": "1.0.0",
-    "main": "src/mod.js",
+    "main": "src/src.js",
     "license": "CC BY-NC-ND 4.0",
     "author": "Valens",
     "akiVersion": ">=3.5.*",
